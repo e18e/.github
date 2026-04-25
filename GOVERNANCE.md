@@ -165,7 +165,7 @@ Anyone may report a violation. Violations can be reported in the following ways:
 
 ### Who gets involved?
 
-Each report will be assigned reviewers. These will initially be all [stewards](#stewards).
+Each report will be assigned reviewers. These will initially be all [stewards](#steward).
 
 In the event of any conflict of interest - ie. stewards who are personally connected to a situation, they must immediately recuse themselves.
 
