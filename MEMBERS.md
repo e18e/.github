@@ -26,11 +26,11 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Madeline Gurriarán [@superchupudev](https://github.com/superchupudev)
 - Patak [@patak](https://github.com/patak-cat)
 - Pooya Parsa [@pi0](https://github.com/pi0)
+- Pascal Schlip [@thepassle](https://github.com/thepassle)
 
 ## Maintainers
 
 - Filip [@filipsobol](https://github.com/filipsobol/)
-- Pascal Schlip [@thepassle](https://github.com/thepassle)
 - Roman [@gameroman](https://github.com/gameroman)
 - jviide [@jviide](https://github.com/jviide)
 
