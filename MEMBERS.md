@@ -24,7 +24,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Fuzzyma [@fuzzyma](https://github.com/fuzzyma)
 - Lars Kappert [@webpro](https://github.com/webpro)
 - Madeline Gurriarán [@superchupudev](https://github.com/superchupudev)
-- Patak [@patak](https://github.com/patak-cat)
+- Patak [@patak-cat](https://github.com/patak-cat)
 - Pooya Parsa [@pi0](https://github.com/pi0)
 - Pascal Schlip [@thepassle](https://github.com/thepassle)
 

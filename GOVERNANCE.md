@@ -159,9 +159,11 @@ Outlined below is the process for Code of Conduct violation reviews.
 Anyone may report a violation. Violations can be reported in the following ways:
 
 - In private, via email to one or more stewards.
-- In private, via direct message to a steward on Discord (e.g. [@43081j](https://github.com/43081j)).
+- In private, via direct message to a steward on Discord
 - In public, via a GitHub comment (mentioning a person with one of the community roles).
 - In public, via the Discord server
+
+To help find how to reach an appropriate person, please see the [membership list](MEMBERS.md).
 
 ### Who gets involved?
 
