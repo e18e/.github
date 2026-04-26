@@ -12,7 +12,7 @@ Members are listed in alphabetical order, by first name. Members are free to use
 - Alexander Karan [@AlexanderKaran](https://github.com/AlexanderKaran)
 - Paolo Ricciuti [@paoloricciuti](https://github.com/paoloricciuti)
 - Paul Valladares [@dreyfus92](https://github.com/dreyfus92)
-- Willow [@ghostdevv](https://github.com/ghostdevv)
+- Willow (GHOST) [@ghostdevv](https://github.com/ghostdevv)
 
 ## Advisor
 
