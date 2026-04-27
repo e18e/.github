@@ -52,7 +52,7 @@ Core members are those who have significant positive impact on the community and
 
 - To be nominated, a nominee is expected to already be performing some of the responsibilities of a Core member.
 - You can be nominated by any existing Core member, Advisor, or above
-- Once nominated, there will be a vote by existing Core/Advisor members.
+- Once nominated, there will be a vote by existing Core members and Advisors.
 - See [vote rules & requirements](#voting) for info on how the vote works.
 
 ### Advisor
