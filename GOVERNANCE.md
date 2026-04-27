@@ -127,8 +127,7 @@ The group the person is being nominated for will be responsible for voting on th
 
 General hierarchy is as follows (in order of base to top responsibility):
 - Maintainer
-- Core
-- Advisor
+- Core / Advisor
 - Steward
 
 1. A vote thread should be created in Discord in the appropriate private channel of the group responsible for voting
