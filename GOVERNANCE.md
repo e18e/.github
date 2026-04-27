@@ -125,10 +125,10 @@ This process kicks off once a valid nomination has been made.
 
 The group the person is being nominated for will be responsible for voting on the nomination. Anyone in a role above that group in responsibility can also vote.
 
-General hierarchy is as follows (in order of base to top responsibility):
-- Maintainer
-- Core / Advisor
+General hierarchy is as follows (in order of top responsibility to base responsibility):
 - Steward
+- Core / Advisor
+- Maintainer
 
 1. A vote thread should be created in Discord in the appropriate private channel of the group responsible for voting
 2. A vote thread can be created by any member responsible for voting on the target role.
