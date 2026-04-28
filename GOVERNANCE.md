@@ -39,8 +39,7 @@ Some maintainers maintain projects, while others may just contribute widely acro
 
 - To be nominated, a nominee is expected to already be supporting the community in some of the ways described above.
 - You can be nominated by any existing Maintainer or above
-- Once nominated, there will be a vote by existing maintainers
-- See [vote rules & requirements](#voting) for info on how the vote works.
+- Once nominated, the nomination passes if consensus is reached among existing Maintainers and above. See [Nominations](#nominations) for details.
 
 ### Core
 
@@ -52,8 +51,7 @@ Core members are those who have significant positive impact on the community and
 
 - To be nominated, a nominee is expected to already be performing some of the responsibilities of a Core member.
 - You can be nominated by any existing Core member, Advisor, or above
-- Once nominated, there will be a vote by existing Core members and Advisors.
-- See [vote rules & requirements](#voting) for info on how the vote works.
+- Once nominated, the nomination passes if consensus is reached among existing Core members, Advisors, and above. See [Nominations](#nominations) for details.
 
 ### Advisor
 
@@ -67,8 +65,7 @@ With the core team, advisors are deeply involved in direction of the community, 
 
 - To be nominated, a nominee is expected to already be performing some of the responsibilities of an Advisor.
 - You can be nominated by any existing Core member, Advisor, or above
-- Once nominated, there will be a vote by existing Core members and Advisors.
-- See [vote rules & requirements](#voting) for info on how the vote works.
+- Once nominated, the nomination passes if consensus is reached among existing Core members, Advisors, and above. See [Nominations](#nominations) for details.
 
 ### Steward
 
@@ -107,7 +104,7 @@ Rejoining a community role after retiring will automatically remove you from the
 
 ## Voting
 
-Certain community decisions (like governance changes and membership nominations) require a vote. Below are the changes that require a vote, and the rules that govern that vote.
+Certain community decisions (like governance changes) require a vote. Below are the changes that require a vote, and the rules that govern that vote. Role nominations are handled separately via consensus - see [Nominations](#nominations).
 
 A Steward may initiate a vote for any unlisted decision. [General Rules](#general-voting-rules) will apply, along with any addition rules provided at the steward's discretion. If this unlisted decision is expected to be repeated in the future, voting rules should be agreed on and then added to this document.
 
@@ -119,26 +116,23 @@ A Steward may initiate a vote for any unlisted decision. [General Rules](#genera
 - Stewards reserve the right to veto approval with a publicly disclosed reason.
 - A vote requires at least 3 non-abstaining votes to be valid (or all eligible voters if there are fewer than 3). If there are not enough votes, the vote will be invalid and the decision will be deferred until a valid vote can be held.
 
-## Voting: New Roles
+## Nominations
 
-This process kicks off once a valid nomination has been made.
+This process kicks off once a valid nomination has been made. (Stewards are nominated separately - see the [Steward](#steward) section.)
 
-The group the person is being nominated for will be responsible for voting on the nomination. Anyone in a role above that group in responsibility can also vote.
+The group the person is being nominated for is responsible for deciding on the nomination. Anyone in a role above that group in responsibility can also participate.
 
 General hierarchy is as follows (in order of top responsibility to base responsibility):
 - Steward
 - Core / Advisor
 - Maintainer
 
-1. A vote thread should be created in Discord in the appropriate private channel of the group responsible for voting
-2. A vote thread can be created by any member responsible for voting on the target role.
-3. Once a vote thread is created, existing members can discuss the nomination in private.
-4. The normal 3 day voting & discussion window begins with the thread creation.
-5. Voting can be done in the thread (visible to other voters) or in a private DM to a Steward.
-6. Once the vote is complete, the thread is deleted and the total vote counts are archived by a Steward.
-7. The vote must receive an overwhelming majority (80%+) to pass. With fewer than 3 voters, the vote must be unanimous to pass.
-8. **If the vote passes:** the nominee will be given the suggested role and all privileges will be made available to them.
-9. **If the vote fails:** a Steward is responsible for informing the nominee with constructive, actionable feedback. (Note: this is not required if the nomination was made in private, i.e. the nominee was unaware).
+1. A discussion thread should be created in Discord in the appropriate private channel of the group responsible for the decision.
+2. A thread can be created by any member eligible to participate in the decision for the target role.
+3. Once a thread is created, existing members can discuss the nomination in private.
+4. The nomination passes if consensus is reached among the eligible members. What constitutes consensus is intentionally unspecified and is left to the judgement of those involved, with a Steward acting as a tiebreaker if needed.
+5. **If consensus is reached:** the nominee will be given the suggested role and all privileges will be made available to them.
+6. **If consensus is not reached:** a Steward is responsible for informing the nominee with constructive, actionable feedback. (Note: this is not required if the nomination was made in private, i.e. the nominee was unaware).
 
 ## Voting: Governance Change
 
